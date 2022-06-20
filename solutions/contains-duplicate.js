@@ -1,4 +1,5 @@
-//Problem: https://leetcode.com/problems/contains-duplicate
+// Author: Carlos Duque
+// Problem: https://leetcode.com/problems/contains-duplicate
 
 var containsDuplicate = function (nums) {
   for (var i = 0; i < nums.length; i++) {

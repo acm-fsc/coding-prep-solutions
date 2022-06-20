@@ -1,4 +1,5 @@
-#Problem: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+# Author: Joshua Obogbaimhe
+# Problem: https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 class Solution(object):
     def letterCombinations(self, digits):
