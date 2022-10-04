@@ -1,5 +1,5 @@
 # Author: Kyoshi Noda
-# Link: https://leetcode.com/submissions/detail/798207084/
+# Link: https://leetcode.com/submissions/detail/798207084/ 
 
 def isAnagram(self, s: str, t: str) -> bool:
   if len(s) != len(t):
