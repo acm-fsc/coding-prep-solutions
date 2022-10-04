@@ -1,3 +1,5 @@
+#Author: Kyoshi Noda
+#Link:  https://leetcode.com/problems/maximum-depth-of-binary-tree/
 def maxDepthRecursive(self, root: Optional[TreeNode]) -> int:
     if not root:
         return 0
