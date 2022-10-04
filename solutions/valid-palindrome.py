@@ -1,5 +1,5 @@
 # Author: Kyoshi Noda
-# Link: https://leetcode.com/problems/valid-palindrome/
+# Link: https://leetcode.com/problems/valid-palindrome/ 
 
 def isPalindrome(self, s: str) -> bool:
   answer = ""
